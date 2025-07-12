@@ -144,7 +144,6 @@ nltk==3.9.1
 notebook==7.2.2
 notebook_shim==0.2.4
 numba==0.60.0
-numpy==1.26.4
 oauthlib==3.2.2
 opendatasets==0.1.22
 opt_einsum==3.4.0
