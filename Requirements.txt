@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+PyPDF2
+transformers
+huggingface_hub
+accelerate
+numpy==1.26.4
