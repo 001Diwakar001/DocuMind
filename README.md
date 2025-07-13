@@ -30,3 +30,7 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run main.py
+
+
+Demo Walkthrough
+Check out the live walkthrough of DocuMind in action : https://www.loom.com/share/cf74d2d7440648bab7c8238c0f73b104?sid=f674e725-bb7c-492e-90fe-26343dc8ee70
